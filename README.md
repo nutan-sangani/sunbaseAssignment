@@ -1,5 +1,6 @@
 ## Description
 ### This an customer Management app built using React as frontend, spring boot for rest apis and mysql for database.
+(if you can send me your email address, i can share my postman api collection with your for testing purposes. Send your email to nutan.sangani.work@gmail.com)
 
 ## Features
 #### 1. My project has all the crud features , like adding, searching, removing, updating customers.
